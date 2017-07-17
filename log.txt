@@ -1,0 +1,1 @@
+{"front":"What is your name","back":"jame?","type":"basic"};{"text":"who is thr president of America","cloze":"America","clozeDeleted":"who is thr president of _____","type":"cloze"};
